@@ -1,6 +1,3 @@
-<img width="374" height="265" alt="arthur-morgan" src="https://github.com/user-attachments/assets/dd68450a-f92d-46b4-84d1-9c73aae2ba10" />
-
-
 # - Richard Murilo Araujo Freire
 
 **Future Backend Developer | Student at ETEC Vasco Antonio Venchiarutti — Jundiaí, SP**
@@ -44,3 +41,5 @@ I am looking for a software development internship opportunity where I can apply
 
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:richardmurilo2205@gmail.com)
 ![Location](https://img.shields.io/badge/Jundiaí,_SP-333333?style=flat-square&logo=googlemaps&logoColor=white)
+
+<img width="374" height="265" alt="arthur-morgan" src="https://github.com/user-attachments/assets/dd68450a-f92d-46b4-84d1-9c73aae2ba10" />
