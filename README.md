@@ -1,4 +1,6 @@
 <img width="374" height="265" alt="arthur-morgan" src="https://github.com/user-attachments/assets/dd68450a-f92d-46b4-84d1-9c73aae2ba10" />
+
+
 # - Richard Murilo Araujo Freire
 
 **Future Backend Developer | Student at ETEC Vasco Antonio Venchiarutti — Jundiaí, SP**
