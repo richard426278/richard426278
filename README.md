@@ -1,4 +1,4 @@
-# >> Eduardo Antônio de Oliveira Bargueiras
+# >> Richard Murilo Araujo Freire
 
 **Future Backend Developer | Student at ETEC Vasco Antonio Venchiarutti — Jundiaí, SP**
 
@@ -29,17 +29,6 @@ I am looking for a software development internship opportunity where I can apply
 
 ---
 
-## >> Featured Projects
-
-| Project | Description | Stack |
-|---|---|---|
-| [#](#) | # | # |
-| [#](#) | # | # |
-
----
-
----
-
 ## >> Currently
 
 - Enrolled in the 1st year of the Technical High School in Systems Development.
@@ -50,5 +39,5 @@ I am looking for a software development internship opportunity where I can apply
 
 ## >> Contact
 
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:eduardobargueiras25@gmail.com)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:richardmurilo2205@gmail.com)
 ![Location](https://img.shields.io/badge/Jundiaí,_SP-333333?style=flat-square&logo=googlemaps&logoColor=white)
