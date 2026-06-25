@@ -1,4 +1,4 @@
-# >> Richard Murilo Araujo Freire
+# - Richard Murilo Araujo Freire
 
 **Future Backend Developer | Student at ETEC Vasco Antonio Venchiarutti — Jundiaí, SP**
 
